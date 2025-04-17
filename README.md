@@ -1,5 +1,5 @@
-# AI-AIDS 🔐
-AI-Powered Adaptive Intrusion Detection System using ML & RL
+# AI-IDS 🔐
+AI-Powered Intrusion Detection System using ML & RL
 
 ## 💡 Overview
 A novel project that detects, explains, and automatically responds to cyber threats using Machine Learning and Reinforcement Learning. Designed for real-time security, inspired by Palo Alto Networks' AI-driven defense.
